@@ -1,2 +1,2 @@
 hi,all
-what is git
+yes, it is git
