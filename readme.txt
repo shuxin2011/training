@@ -1,3 +1,2 @@
-hello,git
 hi,all
-where are you
+what is git
